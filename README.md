@@ -1,0 +1,1 @@
+(C# Switch-Case(Karar Yapıları))[https://app.patika.dev/courses/csharp-101/2-switch-case]
